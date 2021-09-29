@@ -1,5 +1,9 @@
 # Minecraft Hacked Client Sources
 
+# RIP chocopie69/Minecraft-Hacked-Client-Sources
+
+
+
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
 ## Amount of clients: 50
